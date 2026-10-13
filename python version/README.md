@@ -92,21 +92,6 @@ Inserts the processed records into priceDivergence.xlsx inside PriceDivergenceTa
 
 ---
 
-## Repository Structure
-
-price-validation-automation-python/
-|
-|-- README.txt
-|
-|-- scripts/
-|   `-- ERP\_Price\_Validation.py | |-- samples/ |   |-- PowerQuery DMV.xlsx |   |-- PowerQuery ERP.xlsx |   |-- PowerQuery Exchange Rates.xlsx |   `-- PowerQuery Referencial.xlsx
-|
-|-- output/
-|   `-- priceDivergence.xlsx | `-- powerbi/
-`-- ERP-Price-Validation-Dashboard.pbix
-
----
-
 ## Sample Data Disclaimer
 All sample workbooks included in this repository contain dummy data generated exclusively for demonstration purposes. The data does not contain real supplier names, prices, buyers, or business transactions.
 
