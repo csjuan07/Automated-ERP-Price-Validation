@@ -99,5 +99,3 @@ All sample workbooks included in this repository contain dummy data generated ex
 
 ## Author
 Juan Santos
-Sourcing Intern | Procurement Automation | Python | Power Automate | Power BI | Data Analytics
-
